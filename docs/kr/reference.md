@@ -7,5 +7,7 @@
 
 - https://www.projectals.org
 
+- https://als.ai/
+
 ## 신약개발 플랫폼
 - https://www.nvidia.com/en-us/clara/
