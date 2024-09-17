@@ -22,9 +22,3 @@ Therefore, I decided to start a project that could contribute even a little to f
 The reason for detailing the motivation of the project is not to forget why I started this at the beginning, even if the project goes on over a long period of time.  
 
 I sincerely hope that this project can be a light of hope for those suffering from Lou Gehrig's disease(ALS).  
-
-
-## Methodology
-
-For the scalability of the project, I will basically write it in English,  
-but I will try to translate English materials into Korean as much as possible for Lou Gehrig patients who are native to Korean to read.  
